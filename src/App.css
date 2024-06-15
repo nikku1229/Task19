@@ -1,0 +1,10 @@
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: white;
+  padding: 0vh 2vw;
+}
